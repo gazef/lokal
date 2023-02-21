@@ -34,3 +34,9 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSp
 #EXTINF:0 tvg-id="AnimalPlanet.Id" tvg-logo="https://static.visionplus.id/images/channel/8355c2f6-035.png " group-title="GRATIS",Animal Planet TRIAL
 https://anevi-live-channel-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
+#EXTINF:-1 group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg", Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg", Trans7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+
